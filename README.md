@@ -1,7 +1,7 @@
 <h1 align="center">
   <img display="inline-block" src="/frontend/src/assets/logo.svg"> 
 </h1>
-Projeto sendo desenvolvido na 11a SemanaOmniStack com intuito de ajudar ONGs em seus casos específicos.
+Projeto sendo desenvolvido na 11a SemanaOmniStack com intuito de ajudar ONGs em seus casos específicos. Feito com React, React Native e NodeJS.
 
 ### FrontEnd
 <h1 align="center">
